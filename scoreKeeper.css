@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+}
+
+.span {
+  font-size: 50px;
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+.score {
+  margin: 50px 0;
+}
+
+h3 {
+  margin-left: 50px;
+  font-weight: normal;
+  font-size: 30px;
+}
+
+#playto {
+  width: 10vw;
+  margin-left: 50px;
+  margin-top: 20px;
+  border: 1px solid grey;
+}
+
+button {
+  background: rgb(247, 240, 240);
+  border: 1px solid grey;
+}
